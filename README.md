@@ -1,0 +1,3 @@
+# Python-Calculator-Level-Definer
+The PowerPoint presentation is about Computer Science. What is CS? What are its advantages? What are the types of CS? CS is Computer Science. A branch of science through which the rapid evolution of tech and humans started. Computer Science is without a doubt one of the most if not most crucial field of science in the world.
+Then there is the Python file. I recommend that you open it with Notepad, then copy and paste it on Idle to run it. The Python file is a calculator, simply put, it calculates the average of a certain number of marks and according to the average of the marks, it will classify that mark into classes/levels. 
